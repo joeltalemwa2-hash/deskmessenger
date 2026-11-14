@@ -12,9 +12,9 @@ Commands:
 
 Open two terminals in this folder. Run `python server.py` in the first terminal, then `python client.py` in the second. Enter commands at the client prompt.
 
-The purpose of this project is to practise TCP socket programming, understand client-server architecture, and learn how applications exchange structured messages.
+The purpose of this project is to practice TCP socket programming, understand client-server architecture, and learn how applications exchange structured messages.
 
-[Software Demo Video](VIDEO_LINK_TO_BE_ADDED)
+[Software Demo Video](https://youtu.be/IiXO_WtRORk)
 
 # Network Communication
 
@@ -36,16 +36,16 @@ No third-party packages are required.
 
 # Useful Websites
 
-- [Python Socket Documentation](https://docs.python.org/3/library/socket.html)
-- [Python Threading Documentation](https://docs.python.org/3/library/threading.html)
-- [Python JSON Documentation](https://docs.python.org/3/library/json.html)
-- [BYU-I CSE310 Networking Module](https://byui-cse.github.io/cse310-ww-course/modules/module_descriptions.html)
-- [GitHub Documentation](https://docs.github.com/)
+* [Python Socket Documentation](https://docs.python.org/3/library/socket.html)
+* [Python Threading Documentation](https://docs.python.org/3/library/threading.html)
+* [Python JSON Documentation](https://docs.python.org/3/library/json.html)
+* [BYU-I CSE310 Networking Module](https://byui-cse.github.io/cse310-ww-course/modules/module_descriptions.html)
+* [GitHub Documentation](https://docs.github.com/)
 
 # Future Work
 
-- Add user authentication.
-- Store help-desk requests in a database.
-- Add a graphical user interface.
-- Add TLS encryption for use beyond local learning tests.
-- Add automated tests for simultaneous clients.
+* Add user authentication.
+* Store help-desk requests in a database.
+* Add a graphical user interface.
+* Add TLS encryption for use beyond local learning tests.
+* Add automated tests for simultaneous clients.
